@@ -4,7 +4,7 @@
 
 [首页图片预览](https://img.suyu.uk/i/2026/10/22/sja013.png)
 
-以下是原主题的介绍，感觉@echo
+以下是原主题的介绍，感谢@echo
 
 
 ![](https://www.ncc.wang/typecho-echo.png)
