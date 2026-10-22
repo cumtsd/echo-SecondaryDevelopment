@@ -1,0 +1,21 @@
+# 系统文件
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# 编辑器
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 备份文件
+*.bak
+*.orig
+
+# 日志
+*.log
+modifylog/
+
+# 缓存
+cache/
