@@ -1,4 +1,10 @@
-# Typecho 主题 Echo
+# Typecho 主题 Echo修改版
+
+本主题基于Echo主题修改，用于[苏玉博客](https://blog.suyu.uk)
+
+
+以下是原主题的介绍，感觉@echo
+
 
 ![](https://www.ncc.wang/typecho-echo.png)
 
